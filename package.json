@@ -23,6 +23,7 @@
     "office-ui-fabric-react": "^7.199.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
+    "react-icons": "^4.8.0",
     "react-leaf-polls": "^1.1.6",
     "tslib": "2.3.1"
   },
